@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225045787177",
+    "project_id": "recipesgit",
+    "storage_bucket": "recipesgit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225045787177:android:17f380b5316de97e7f6238",
+        "android_client_info": {
+          "package_name": "com.example.foodpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyART51iL_z0Jya_uvu3XN78ENPmXoY-nj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

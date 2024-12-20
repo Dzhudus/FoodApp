@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/category_option_all" android:title="Все категорий" />
+    <item android:id="@+id/category_option_1" android:title="Завтраки" />
+    <item android:id="@+id/category_option_2" android:title="Бульоны" />
+    <item android:id="@+id/category_option_3" android:title="Закуски" />
+    <item android:id="@+id/category_option_4" android:title="Напитки" />
+    <item android:id="@+id/category_option_5" android:title="Основные блюда" />
+    <item android:id="@+id/category_option_6" android:title="Паста и пицца" />
+    <item android:id="@+id/category_option_7" android:title="Ризотто" />
+    <item android:id="@+id/category_option_8" android:title="Салаты" />
+    <item android:id="@+id/category_option_9" android:title="Соусы и маринады" />
+    <item android:id="@+id/category_option_10" android:title="Супы" />
+    <item android:id="@+id/category_option_11" android:title="Сэндвичи" />
+    <item android:id="@+id/category_option_12" android:title="Выпечка и десерты" />
+    <item android:id="@+id/category_option_13" android:title="Заготовки" />
+
+    <!-- Добавьте остальные категории -->
+</menu>
+
+

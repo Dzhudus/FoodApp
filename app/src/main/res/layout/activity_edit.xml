@@ -1,0 +1,133 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Author -->
+        <EditText
+            android:id="@+id/RecipieAuthorName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Author"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/titleEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Title"
+            android:inputType="text"/>
+
+
+
+        <!-- Bookmarks -->
+
+
+        <!-- Calories -->
+        <EditText
+            android:id="@+id/caloriesEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Calories"
+            android:inputType="numberDecimal" />
+
+        <!-- Carbohydrates -->
+        <EditText
+            android:id="@+id/carbohydratesEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Carbohydrates"
+            android:inputType="numberDecimal" />
+
+        <!-- Category -->
+        <EditText
+            android:id="@+id/categoryEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Category"
+            android:inputType="text" />
+
+        <!-- Cuisine -->
+        <EditText
+            android:id="@+id/cuisineEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Cuisine"
+            android:inputType="text" />
+
+        <!-- Description -->
+        <EditText
+            android:id="@+id/descriptionEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Description"
+            android:inputType="textMultiLine"
+            android:lines="4"
+            android:gravity="top" />
+
+        <!-- Dislikes -->
+
+
+        <!-- Fats -->
+        <EditText
+            android:id="@+id/fatsEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Fats"
+            android:inputType="numberDecimal" />
+
+
+
+        <!-- Ingredients -->
+        <EditText
+            android:id="@+id/ingredientsEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ingredients (comma-separated)"
+            android:inputType="textMultiLine"
+            android:lines="4"
+            android:gravity="top" />
+
+        <!-- Ingredients Count -->
+        <EditText
+            android:id="@+id/ingredientsCountEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ingredients Count"
+            android:inputType="text" />
+
+        <!-- Likes -->
+
+
+        <!-- Proteins -->
+        <EditText
+            android:id="@+id/proteinsEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Proteins"
+            android:inputType="numberDecimal" />
+
+        <!-- Recipe Instructions -->
+        <EditText
+            android:id="@+id/recipeInstructionsEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Recipe Instructions"
+            android:inputType="textMultiLine"
+            android:lines="4"
+            android:gravity="top" />
+
+        <!-- Submit Button -->
+        <Button
+            android:id="@+id/submitButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Submit Recipe" />
+    </LinearLayout>
+</ScrollView>

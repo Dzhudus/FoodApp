@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FoodPro</string>
+    <string name="app_logo">App Logo</string>
+    <string name="welcome_title">Welcome to </string>
+    <string name="register">Зарегестрироваться</string>
+    <string name="login">Войти</string>
+    <string name="dont_have_account">Еще нет аккаунта? Зарегистрироваться</string>
+    <string name="have_account">Уже есть аккаунт? Войти</string>
+    <string name="name_hint">Full Name</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="register_button">Sign Up</string>
+    <string name="back_button">Back</string>
+
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+</resources>
+

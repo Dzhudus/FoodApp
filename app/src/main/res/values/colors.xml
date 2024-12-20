@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#EDCDBB</color>
+    <color name="primary_color">#F29F58</color>
+
+    <color name="welcome_background">#1F1F1F</color>
+    <color name="btn_color">#AB4459</color>
+    <color name="text_color">#FDF7F4</color>
+    <color name="background_color">#FFEDDB</color>
+    <color name="tool_bar_color">#685752</color>
+    <color name="hint_color">#757575</color>
+
+    <color name="profile_color">#343435</color>
+
+
+
+    <color name="colorPrimary">#00796B</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+
+
+
+
+
+</resources>

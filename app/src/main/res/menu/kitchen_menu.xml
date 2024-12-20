@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/kitchen_option_all" android:title="Все кухни" />
+    <item android:id="@+id/kitchen_option_1" android:title="Итальянская кухня" />
+    <item android:id="@+id/kitchen_option_2" android:title="Грузинская кухня" />
+    <item android:id="@+id/kitchen_option_3" android:title="Китайская кухня" />
+    <item android:id="@+id/kitchen_option_4" android:title="Французская кухня" />
+    <item android:id="@+id/kitchen_option_5" android:title="Русская кухня" />
+    <item android:id="@+id/kitchen_option_6" android:title="Японская кухня" />
+    <item android:id="@+id/kitchen_option_7" android:title="Индийская кухня" />
+    <item android:id="@+id/kitchen_option_8" android:title="Мексиканская кухня" />
+    <item android:id="@+id/kitchen_option_9" android:title="Армянская кухня" />
+    <item android:id="@+id/kitchen_option_10" android:title="Американская кухня" />
+    <item android:id="@+id/kitchen_option_11" android:title="Испанская кухня" />
+    <item android:id="@+id/kitchen_option_12" android:title="Немецкая кухня" />
+    <item android:id="@+id/kitchen_option_13" android:title="Греческая кухня" />
+    <item android:id="@+id/kitchen_option_14" android:title="Азербайджанская кухня" />
+    <item android:id="@+id/kitchen_option_15" android:title="Европейская кухня" />
+    <item android:id="@+id/kitchen_option_16" android:title="Еврейская кухня" />
+    <item android:id="@+id/kitchen_option_17" android:title="Корейская кухня" />
+    <item android:id="@+id/kitchen_option_18" android:title="Тайская кухня" />
+    <item android:id="@+id/kitchen_option_19" android:title="Паназиатская кухня" />
+    <item android:id="@+id/kitchen_option_20" android:title="Турецкая кухня" />
+    <item android:id="@+id/kitchen_option_21" android:title="Узбекская кухня" />
+    <item android:id="@+id/kitchen_option_22" android:title="Татарская кухня" />
+    <item android:id="@+id/kitchen_option_23" android:title="Средиземноморская кухня" />
+    <item android:id="@+id/kitchen_option_24" android:title="Арабская кухня" />
+    <item android:id="@+id/kitchen_option_25" android:title="Украинская кухня" />
+    <item android:id="@+id/kitchen_option_26" android:title="Польская кухня" />
+    <item android:id="@+id/kitchen_option_27" android:title="Британская кухня" />
+    <item android:id="@+id/kitchen_option_28" android:title="Белорусская кухня" />
+    <item android:id="@+id/kitchen_option_29" android:title="Норвежская кухня" />
+    <item android:id="@+id/kitchen_option_30" android:title="Шведская кухня" />
+    <item android:id="@+id/kitchen_option_31" android:title="Марокканская кухня" />
+    <item android:id="@+id/kitchen_option_32" android:title="Болгарская кухня" />
+    <item android:id="@+id/kitchen_option_33" android:title="Австрийская кухня" />
+    <item android:id="@+id/kitchen_option_34" android:title="Австралийская кухня" />
+    <item android:id="@+id/kitchen_option_35" android:title="Финская кухня" />
+    <item android:id="@+id/kitchen_option_36" android:title="Сербская кухня" />
+    <item android:id="@+id/kitchen_option_37" android:title="Венгерская кухня" />
+    <item android:id="@+id/kitchen_option_38" android:title="Вьетнамская кухня" />
+    <item android:id="@+id/kitchen_option_39" android:title="Молдавская кухня" />
+    <item android:id="@+id/kitchen_option_40" android:title="Осетинская кухня" />
+    <item android:id="@+id/kitchen_option_41" android:title="Бурятская кухня" />
+    <item android:id="@+id/kitchen_option_42" android:title="Кавказская кухня" />
+    <item android:id="@+id/kitchen_option_43" android:title="Колумбийская кухня" />
+    <item android:id="@+id/kitchen_option_44" android:title="Креольская кухня" />
+    <item android:id="@+id/kitchen_option_45" android:title="Сицилийская кухня" />
+    <item android:id="@+id/kitchen_option_46" android:title="Советская кухня" />
+    <item android:id="@+id/kitchen_option_47" android:title="Черногорская кухня" />
+    <item android:id="@+id/kitchen_option_48" android:title="Камбоджийская кухня" />
+    <item android:id="@+id/kitchen_option_49" android:title="Казахская кухня" />
+    <item android:id="@+id/kitchen_option_50" android:title="Чеченская кухня" />
+    <item android:id="@+id/kitchen_option_51" android:title="Северно-индийская кухня" />
+    <item android:id="@+id/kitchen_option_52" android:title="Южно-индийская кухня" />
+    <item android:id="@+id/kitchen_option_53" android:title="Скандинавская кухня" />
+    <item android:id="@+id/kitchen_option_54" android:title="Бразильская кухня" />
+    <item android:id="@+id/kitchen_option_55" android:title="Кухня Вестероса" />
+    <item android:id="@+id/kitchen_option_56" android:title="Перуанская кухня" />
+    <item android:id="@+id/kitchen_option_57" android:title="Голландская кухня" />
+    <item android:id="@+id/kitchen_option_58" android:title="Чешская кухня" />
+    <item android:id="@+id/kitchen_option_59" android:title="Литовская кухня" />
+    <item android:id="@+id/kitchen_option_60" android:title="Ливанская кухня" />
+    <item android:id="@+id/kitchen_option_61" android:title="Кубинская кухня" />
+    <item android:id="@+id/kitchen_option_62" android:title="Киргизская кухня" />
+    <item android:id="@+id/kitchen_option_63" android:title="Башкирская кухня" />
+    <item android:id="@+id/kitchen_option_64" android:title="Канадская кухня" />
+    <item android:id="@+id/kitchen_option_65" android:title="Алжирская кухня" />
+    <item android:id="@+id/kitchen_option_66" android:title="Дагестанская кухня" />
+    <item android:id="@+id/kitchen_option_67" android:title="Албанская кухня" />
+    <item android:id="@+id/kitchen_option_68" android:title="Мировая кухня" />
+    <item android:id="@+id/kitchen_option_69" android:title="Мальтийская кухня" />
+    <item android:id="@+id/kitchen_option_70" android:title="Каталонская кухня" />
+    <item android:id="@+id/kitchen_option_71" android:title="Туркменская кухня" />
+    <item android:id="@+id/kitchen_option_72" android:title="Афганская кухня" />
+    <item android:id="@+id/kitchen_option_73" android:title="Египетская кухня" />
+    <item android:id="@+id/kitchen_option_74" android:title="Крымская кухня" />
+    <item android:id="@+id/kitchen_option_75" android:title="Раджастанская кухня" />
+    <item android:id="@+id/kitchen_option_76" android:title="Африканская кухня" />
+    <item android:id="@+id/kitchen_option_77" android:title="Филиппинская кухня" />
+    <item android:id="@+id/kitchen_option_78" android:title="Шотландская кухня" />
+    <item android:id="@+id/kitchen_option_79" android:title="Сирийская кухня" />
+    <item android:id="@+id/kitchen_option_80" android:title="Таджикская кухня" />
+    <item android:id="@+id/kitchen_option_81" android:title="Португальская кухня" />
+    <item android:id="@+id/kitchen_option_82" android:title="Латиноамериканская кухня" />
+    <item android:id="@+id/kitchen_option_83" android:title="Латвийская кухня" />
+    <item android:id="@+id/kitchen_option_84" android:title="Индонезийская кухня" />
+    <item android:id="@+id/kitchen_option_85" android:title="Датская кухня" />
+    <item android:id="@+id/kitchen_option_86" android:title="Исландская кухня"/>
+    <item android:id="@+id/kitchen_option_87" android:title="Швейцарская кухня"/>
+    <item android:id="@+id/kitchen_option_88" android:title="Абхазская кухня"/>
+    <item android:id="@+id/kitchen_option_89" android:title="Хорватская кухня"/>
+    <item android:id="@+id/kitchen_option_90" android:title="Кипрская кухня"/>
+    <item android:id="@+id/kitchen_option_91" android:title="Румынская кухня"/>
+    <item android:id="@+id/kitchen_option_92" android:title="Персидская кухня"/>
+    <item android:id="@+id/kitchen_option_93" android:title="Сингапурская кухня"/>
+    <item android:id="@+id/kitchen_option_94" android:title="Пакистанская кухня"/>
+    <item android:id="@+id/kitchen_option_95" android:title="Черкесская кухня"/>
+    <item android:id="@+id/kitchen_option_96" android:title="Пенджабская кухня"/>
+    <item android:id="@+id/kitchen_option_97" android:title="Восточно-индийская кухня"/>
+    <item android:id="@+id/kitchen_option_98" android:title="Одесская кухня"/>
+    <item android:id="@+id/kitchen_option_99" android:title="Малайзийская кухня"/>
+    <item android:id="@+id/kitchen_option_100" android:title="Ирландская кухня"/>
+
+</menu>
